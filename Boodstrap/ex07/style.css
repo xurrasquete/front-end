@@ -1,0 +1,16 @@
+:root{
+    --primary: #dea27fdd;
+    --secondary: #4944b69e;
+}
+.bg-danger{
+    color: var(--primary) !important;
+}
+.bg-success{
+    color: var(--secondary) !important;
+}
+nav > img {
+    width: 10px;
+}
+.banner {
+    height: 40rem;
+}
